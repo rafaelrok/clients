@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ClientsApplication<clients>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.rafaelvieira.clients.ClientsApplication",
+            "projectName": "clients",
+            "args": ""
+        }
+    ]
+}
